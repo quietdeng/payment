@@ -1,7 +1,7 @@
 {
     "name": "quietdeng/payment",
     "description": "支付测试包",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "type": "library",
     "license": "MIT",
     "authors": [
