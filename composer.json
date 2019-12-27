@@ -1,5 +1,5 @@
 {
-    "name": "deng/payment",
+    "name": "quietdeng/payment",
     "description": "支付测试包",
     "minimum-stability": "stable",
     "type": "library",
