@@ -1,0 +1,19 @@
+{
+    "name": "deng/payment",
+    "description": "支付测试包",
+    "minimum-stability": "stable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "quietdeng",
+            "email": "deng460415584@google.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Quietdeng\\Payment\\": "src"
+        }
+    }
+}
