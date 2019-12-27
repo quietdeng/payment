@@ -1,6 +1,6 @@
 <?php
 
-namespace Quietdeng\Payment;
+namespace Payment;
 
 class Refund
 {
